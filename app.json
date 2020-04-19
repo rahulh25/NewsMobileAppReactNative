@@ -1,0 +1,17 @@
+{
+  "name": "devops-final-mobile-app",
+  "displayName": "devops-final-mobile-app",
+  "expo": {
+    "name": "devops-final-mobile-app",
+    "slug": "devops-final-mobile-app",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
