@@ -1,4 +1,4 @@
-# React frontend for our URL Shortner and File uploader
+# NEWS mobile app
 
 ## Goal
 <p>The goal of this application is to provide with the latest news and keep them updated with the current affairs. We will be using react native to create the application as React native provides us with the ability to create cross platform mobile apps. The API used is from <a href="https://newsapi.org/">link</a>. You can register here to get an api key that can be used to get the latest news.</p>
@@ -11,7 +11,7 @@
 
 <ol>
 <li>React-Native</li>
-<li>AWS Amplify (For adding analytics) <a href="https://docs.amplify.aws/lib/analytics/getting-started/q/platform/js">Official Doc</a></li>
+<li>AWS Amplify (For adding analytics) <a href="https://aws-amplify.github.io/docs/js/tutorials/building-react-native-apps/">Get Started with amplify for react native</a></li>
 <li>AWS Pinpoint <a href="https://aws.amazon.com/pinpoint/">More Info</a></li>
 <li>Expo Client- To test our application on our phone <a href="https://docs.expo.io/versions/v34.0.0/introduction/installation/">Installation</a></li>
 </ol>
@@ -46,8 +46,6 @@
     ```js
     amplify init
     ```
-    <i>This asks you a bunch of options (Fill them as shown below. Although the profile name can be of your choice.)</i><br>
-    ![AMPLIFY INIT](https://github.com/rahulh25/screenshots/blob/master/frontend/amplify_init.png)<br>  
 4. Now we will setup analytics using AWS Amplify. Run the following command:
     ```js
     amplify add analytics
