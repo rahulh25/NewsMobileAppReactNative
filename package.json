@@ -14,7 +14,7 @@
     "aws-amplify-react-native": "^4.0.4",
     "expo": "~37.0.3",
     "expo-updates": "~0.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "~0.61.5",
